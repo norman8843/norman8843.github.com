@@ -1,0 +1,38 @@
+/* Effective stylesheet produced by snapshot save */
+body { margin: 0px; text-align: center; font-family: "Lucida Grande","Lucida Sans Unicode",Tahoma,Helvetica,Verdana,sans-serif; }
+#header { height: 100px; width: 100%; }
+#header div { width: 860px; margin: auto; text-align: left; }
+#header h1 { margin: 0px; color: Black; padding-top: 25px; font-family: Arial,Helvetica,sans-serif; font-weight: normal; font-size: xx-large; }
+#header h1 a { color: Black; }
+#header h2 { margin: 0px; color: Gray; font-family: Arial,Helvetica,sans-serif; font-weight: normal; font-size: large; padding-top: 8px; }
+#header h2 a { color: Black; }
+#header a { text-decoration: none; }
+#nav { width: 860px; margin: auto; height: 46px; }
+#nav ul { list-style-type: none; font-size: 0.8em; margin: auto; text-align: right; padding: 12px 0px 17px; }
+#nav ul li { display: inline; padding: 12px 0px 17px; }
+#nav a { color: rgb(255, 255, 255); padding: 12px 12px 17px; text-decoration: none; }
+#nav a:hover { color: Black; padding: 12px 12px 17px; text-decoration: none; }
+#main { width: 860px; margin: auto; text-align: left; padding-bottom: 15px; }
+#main { font-size: small; line-height: 1.5; }
+#main a { color: rgb(102, 153, 204); text-decoration: none; }
+#main a:hover { color: Gray; text-decoration: none; }
+#main h2, h3, h4 { color: rgb(51, 51, 51); }
+#blog { background-color: rgb(77, 77, 77); width: 100%; border-top: 1px solid rgb(128, 128, 128); text-align: left; }
+#blog h3 { padding: 15px 10px 0px; margin: 0px; font-weight: normal; color: rgb(255, 204, 0); font-size: 1em; }
+#blog a { text-decoration: none; color: rgb(255, 255, 255); }
+#blog a:hover { color: rgb(204, 204, 204); text-decoration: underline; }
+#footer { height: 50px; width: 100%; margin: 0px; padding: 0px; }
+#footer ul { float: right; font-size: 0.8em; padding-bottom: 15px; margin: 0px; }
+#footer li { display: inline; padding-top: 0px; padding-left: 25px; padding-right: 15px; margin: 0px; }
+#footer a { color: rgb(255, 255, 255); text-decoration: none; }
+#footer a:hover { color: rgb(204, 204, 204); text-decoration: underline; }
+#footer img { border: 0px none; width: 88px; height: 31px; padding-top: 10px; }
+.thumbnail { float: left; padding: 5px; }
+.thumbnail img { border: 1px solid rgb(17, 17, 17); width: 75px; height: 75px; }
+.pageTitle { margin: 15px 0px 0px; color: rgb(102, 153, 204); }
+.half { width: 48%; }
+.left { float: left; padding-right: 10px; }
+.right { float: right; padding-left: 10px; }
+.clear { clear: both; line-height: 1px; }
+.third { width: 32%; }
+.center { float: left; padding-right: 5px; padding-left: 5px; }
